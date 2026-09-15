@@ -1,0 +1,1281 @@
+Blender 4.3.2
+Read blend: "/workspace/cliphost/mii-maker/Mii_Maker_for_4.1_v2.blend"
+Warning: Material hair_sprite could not be converted because of non-trivial alpha blending (need manual adjustment)
+
+Warning: Material selection could not be converted because of non-trivial alpha blending (need manual adjustment)
+
+{
+  "hair_objects": [
+    {
+      "name": "hair",
+      "type": "MESH",
+      "verts": 4,
+      "hidden": false,
+      "collections": [
+        "switches"
+      ]
+    },
+    {
+      "name": "hair none",
+      "type": "MESH",
+      "verts": 1,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair picker",
+      "type": "MESH",
+      "verts": 4,
+      "hidden": false,
+      "collections": [
+        "pickers"
+      ]
+    },
+    {
+      "name": "hair.000",
+      "type": "MESH",
+      "verts": 825,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.001",
+      "type": "MESH",
+      "verts": 689,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.002",
+      "type": "MESH",
+      "verts": 933,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.003",
+      "type": "MESH",
+      "verts": 737,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.004",
+      "type": "MESH",
+      "verts": 621,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.005",
+      "type": "MESH",
+      "verts": 438,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.006",
+      "type": "MESH",
+      "verts": 733,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.007",
+      "type": "MESH",
+      "verts": 753,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.008",
+      "type": "MESH",
+      "verts": 749,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.009",
+      "type": "MESH",
+      "verts": 1015,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.010",
+      "type": "MESH",
+      "verts": 888,
+      "hidden": false,
+      "collections": [
+        "Collection",
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.011",
+      "type": "MESH",
+      "verts": 722,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.012",
+      "type": "MESH",
+      "verts": 957,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.013",
+      "type": "MESH",
+      "verts": 255,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.014",
+      "type": "MESH",
+      "verts": 727,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.015",
+      "type": "MESH",
+      "verts": 829,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.016",
+      "type": "MESH",
+      "verts": 522,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.017",
+      "type": "MESH",
+      "verts": 550,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.018",
+      "type": "MESH",
+      "verts": 833,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.019",
+      "type": "MESH",
+      "verts": 435,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.020",
+      "type": "MESH",
+      "verts": 590,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.021",
+      "type": "MESH",
+      "verts": 754,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.022",
+      "type": "MESH",
+      "verts": 815,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.023",
+      "type": "MESH",
+      "verts": 527,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.024",
+      "type": "MESH",
+      "verts": 1060,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.025",
+      "type": "MESH",
+      "verts": 392,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.026",
+      "type": "MESH",
+      "verts": 858,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.027",
+      "type": "MESH",
+      "verts": 842,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.028",
+      "type": "MESH",
+      "verts": 811,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.029",
+      "type": "MESH",
+      "verts": 713,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.030",
+      "type": "MESH",
+      "verts": 482,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.031",
+      "type": "MESH",
+      "verts": 195,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.032",
+      "type": "MESH",
+      "verts": 893,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.033",
+      "type": "MESH",
+      "verts": 927,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.034",
+      "type": "MESH",
+      "verts": 557,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.035",
+      "type": "MESH",
+      "verts": 933,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.036",
+      "type": "MESH",
+      "verts": 718,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.037",
+      "type": "MESH",
+      "verts": 763,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.038",
+      "type": "MESH",
+      "verts": 393,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.039",
+      "type": "MESH",
+      "verts": 804,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.040",
+      "type": "MESH",
+      "verts": 691,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.041",
+      "type": "MESH",
+      "verts": 516,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.042",
+      "type": "MESH",
+      "verts": 462,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.043",
+      "type": "MESH",
+      "verts": 509,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.044",
+      "type": "MESH",
+      "verts": 850,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.045",
+      "type": "MESH",
+      "verts": 715,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.046",
+      "type": "MESH",
+      "verts": 842,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.047",
+      "type": "MESH",
+      "verts": 675,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.048",
+      "type": "MESH",
+      "verts": 828,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.049",
+      "type": "MESH",
+      "verts": 855,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.050",
+      "type": "MESH",
+      "verts": 794,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.051",
+      "type": "MESH",
+      "verts": 734,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.052",
+      "type": "MESH",
+      "verts": 630,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.053",
+      "type": "MESH",
+      "verts": 712,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.054",
+      "type": "MESH",
+      "verts": 600,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.055",
+      "type": "MESH",
+      "verts": 705,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.056",
+      "type": "MESH",
+      "verts": 900,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.057",
+      "type": "MESH",
+      "verts": 640,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.058",
+      "type": "MESH",
+      "verts": 1027,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.059",
+      "type": "MESH",
+      "verts": 636,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.060",
+      "type": "MESH",
+      "verts": 655,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.061",
+      "type": "MESH",
+      "verts": 471,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.062",
+      "type": "MESH",
+      "verts": 662,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.063",
+      "type": "MESH",
+      "verts": 676,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.064",
+      "type": "MESH",
+      "verts": 555,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.065",
+      "type": "MESH",
+      "verts": 669,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.066",
+      "type": "MESH",
+      "verts": 729,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.067",
+      "type": "MESH",
+      "verts": 759,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.068",
+      "type": "MESH",
+      "verts": 209,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.069",
+      "type": "MESH",
+      "verts": 711,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.070",
+      "type": "MESH",
+      "verts": 615,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.071",
+      "type": "MESH",
+      "verts": 767,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.072",
+      "type": "MESH",
+      "verts": 756,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.073",
+      "type": "MESH",
+      "verts": 501,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.074",
+      "type": "MESH",
+      "verts": 821,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.075",
+      "type": "MESH",
+      "verts": 500,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.076",
+      "type": "MESH",
+      "verts": 508,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.077",
+      "type": "MESH",
+      "verts": 686,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.078",
+      "type": "MESH",
+      "verts": 618,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.079",
+      "type": "MESH",
+      "verts": 234,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.080",
+      "type": "MESH",
+      "verts": 657,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.081",
+      "type": "MESH",
+      "verts": 855,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.082",
+      "type": "MESH",
+      "verts": 750,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.083",
+      "type": "MESH",
+      "verts": 735,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.084",
+      "type": "MESH",
+      "verts": 433,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.085",
+      "type": "MESH",
+      "verts": 751,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.086",
+      "type": "MESH",
+      "verts": 750,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.087",
+      "type": "MESH",
+      "verts": 779,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.088",
+      "type": "MESH",
+      "verts": 737,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.089",
+      "type": "MESH",
+      "verts": 830,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.090",
+      "type": "MESH",
+      "verts": 626,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.091",
+      "type": "MESH",
+      "verts": 926,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.092",
+      "type": "MESH",
+      "verts": 756,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.093",
+      "type": "MESH",
+      "verts": 632,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.094",
+      "type": "MESH",
+      "verts": 853,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.095",
+      "type": "MESH",
+      "verts": 559,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.096",
+      "type": "MESH",
+      "verts": 639,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.097",
+      "type": "MESH",
+      "verts": 713,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.098",
+      "type": "MESH",
+      "verts": 755,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.099",
+      "type": "MESH",
+      "verts": 738,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.100",
+      "type": "MESH",
+      "verts": 1067,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.101",
+      "type": "MESH",
+      "verts": 909,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.102",
+      "type": "MESH",
+      "verts": 172,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.103",
+      "type": "MESH",
+      "verts": 628,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.104",
+      "type": "MESH",
+      "verts": 543,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.105",
+      "type": "MESH",
+      "verts": 655,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.106",
+      "type": "MESH",
+      "verts": 614,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.107",
+      "type": "MESH",
+      "verts": 475,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.108",
+      "type": "MESH",
+      "verts": 546,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.109",
+      "type": "MESH",
+      "verts": 577,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.110",
+      "type": "MESH",
+      "verts": 610,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.111",
+      "type": "MESH",
+      "verts": 343,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.112",
+      "type": "MESH",
+      "verts": 1997,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.113",
+      "type": "MESH",
+      "verts": 597,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.114",
+      "type": "MESH",
+      "verts": 754,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.115",
+      "type": "MESH",
+      "verts": 513,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.116",
+      "type": "MESH",
+      "verts": 622,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.117",
+      "type": "MESH",
+      "verts": 964,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.118",
+      "type": "MESH",
+      "verts": 770,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.119",
+      "type": "MESH",
+      "verts": 873,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.120",
+      "type": "MESH",
+      "verts": 676,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.121",
+      "type": "MESH",
+      "verts": 917,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.122",
+      "type": "MESH",
+      "verts": 792,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.123",
+      "type": "MESH",
+      "verts": 718,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.124",
+      "type": "MESH",
+      "verts": 868,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.125",
+      "type": "MESH",
+      "verts": 699,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.126",
+      "type": "MESH",
+      "verts": 783,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.127",
+      "type": "MESH",
+      "verts": 708,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.128",
+      "type": "MESH",
+      "verts": 808,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.129",
+      "type": "MESH",
+      "verts": 589,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair.130",
+      "type": "MESH",
+      "verts": 64,
+      "hidden": false,
+      "collections": [
+        "beard"
+      ]
+    },
+    {
+      "name": "hair.131",
+      "type": "MESH",
+      "verts": 18,
+      "hidden": false,
+      "collections": [
+        "beard"
+      ]
+    },
+    {
+      "name": "hair.132",
+      "type": "MESH",
+      "verts": 30,
+      "hidden": false,
+      "collections": [
+        "beard"
+      ]
+    },
+    {
+      "name": "hair.133",
+      "type": "MESH",
+      "verts": 923,
+      "hidden": false,
+      "collections": [
+        "hair"
+      ]
+    },
+    {
+      "name": "hair_sprite",
+      "type": "MESH",
+      "verts": 288,
+      "hidden": false,
+      "collections": [
+        "hair 1"
+      ]
+    },
+    {
+      "name": "snap.hair",
+      "type": "MESH",
+      "verts": 132,
+      "hidden": false,
+      "collections": [
+        "hair 1"
+      ]
+    },
+    {
+      "name": "snap.shrink.hair",
+      "type": "MESH",
+      "verts": 2,
+      "hidden": false,
+      "collections": [
+        "hair 1"
+      ]
+    }
+  ],
+  "hair_materials": [
+    "hair_sprite",
+    "mii hair"
+  ],
+  "hair_images": [
+    "hair_sprite.png"
+  ],
+  "total_objects": 424
+}
+
+Blender quit
