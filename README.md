@@ -20,3 +20,13 @@ After push, files are available at:
 
 Example:
 `https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/manifest.json`
+
+## Head (most natural oval)
+- `head/mii_head_natural.obj` (+ `.mtl`)
+- `head/mii_head_natural.blend`
+- `head/manifest.json` — source was Joey Carlino `head.006` (soft oval, 58 verts)
+- Previews: `head/mii_head_natural_front.png`, `head/mii_head_natural_34.png`
+
+Raw:
+`https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/head/mii_head_natural.obj`
+

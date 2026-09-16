@@ -1,0 +1,12 @@
+# Blender 4.3.2 MTL File: 'Mii_Maker_for_4.1_v2.blend'
+# www.blender.org
+
+newmtl mii_skin
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.462000 0.147000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
