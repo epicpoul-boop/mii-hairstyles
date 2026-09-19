@@ -1,0 +1,8 @@
+verts=966
+faces=1020
+nonmanifold=0
+boundary=0
+style=twin_buns
+base_thickness=0.16
+buns=2
+bun_radius=0.30

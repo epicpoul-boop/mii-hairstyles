@@ -1,0 +1,9 @@
+verts=1442
+faces=1480
+nonmanifold=0
+boundary=0
+style=long_aline
+thickness=0.18
+pitch_deg=-14
+hem_front=-1.32
+hem_back=0.40

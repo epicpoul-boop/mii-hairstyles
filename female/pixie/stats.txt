@@ -1,0 +1,9 @@
+verts=898
+faces=928
+nonmanifold=0
+boundary=0
+style=pixie
+thickness=0.17
+pitch_deg=-10
+hem_front=0.18
+hem_back=0.38

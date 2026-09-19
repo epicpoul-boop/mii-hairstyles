@@ -20,3 +20,12 @@ Longer A-line bob — single continuous glossy shell.
 | `male/spike/` | Short base + geometric spikes | [spike.obj](https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/male/spike/spike.obj) |
 
 Each male folder has `{name}.obj` / `.mtl` / `.blend` and `previews/` (hair alone).
+
+### Female
+| Style | Description | Raw OBJ |
+|-------|-------------|---------|
+| `female/long_aline/` | Long elegant A-line — shoulder front, short nape | [long_aline.obj](https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/female/long_aline/long_aline.obj) |
+| `female/pixie/` | Short polished pixie — cropped nape, angular bangs | [pixie.obj](https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/female/pixie/pixie.obj) |
+| `female/twin_buns/` | Twin disc buns + short shell base | [twin_buns.obj](https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/female/twin_buns/twin_buns.obj) |
+
+Each female folder has `{name}.obj` / `.mtl` / `.blend` and `previews/` (hair alone).
