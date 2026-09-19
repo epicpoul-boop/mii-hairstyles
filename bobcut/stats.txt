@@ -1,0 +1,11 @@
+verts=1090
+faces=1122
+hem_front=-1.05
+hem_back=0.22
+thickness=0.18
+hairline=polygonal_angular
+z_brow=0.6
+z_temple=0.38
+brow_half_deg=20.0
+face_open_deg=48.00000000000001
+pitch_deg=-16.0

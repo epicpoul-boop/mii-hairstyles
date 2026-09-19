@@ -30,3 +30,13 @@ Example:
 Raw:
 `https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/head/mii_head_natural.obj`
 
+## Bobcut (custom Cliphost / cyberpunk)
+Minimal single-shell glossy bob for a round unit-sphere head (r=1). Hair mesh only.
+
+- `bobcut/bobcut.obj` (+ `.mtl`, `.blend`)
+- `bobcut/previews/` — hair alone
+- Fits head radius 1.0 at origin; scale by `R/1.0` if needed
+
+Raw:
+`https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/bobcut/bobcut.obj`
+
