@@ -1,0 +1,7 @@
+verts=522
+faces=534
+nonmanifold=0
+boundary=0
+style=spike
+base_thickness=0.15
+spikes=5

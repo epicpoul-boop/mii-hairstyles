@@ -1,0 +1,9 @@
+verts=722
+faces=750
+nonmanifold=0
+boundary=0
+style=crew
+thickness=0.16
+pitch_deg=-8
+hem_front=0.02
+hem_back=0.08

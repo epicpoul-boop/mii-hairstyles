@@ -1,0 +1,9 @@
+verts=722
+faces=750
+nonmanifold=0
+boundary=0
+style=slick
+thickness=0.17
+pitch_deg=-12
+side_bias=0.38
+hem_asym=0.18

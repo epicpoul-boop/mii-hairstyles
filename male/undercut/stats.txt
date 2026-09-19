@@ -1,0 +1,10 @@
+verts=522
+faces=546
+nonmanifold=0
+boundary=0
+style=undercut
+thickness=0.19
+pitch_deg=-4
+flat_top=0.92
+hem_front=0.42
+hem_back=0.48
