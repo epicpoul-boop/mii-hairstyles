@@ -1,13 +1,13 @@
 # Style 03 — Sleek Bob with Arched Bangs
 
-Cute chibi sleek bob. Source screened from Mii Maker `hair.000`–`hair.040`; **chose `hair.006`** for soft arched bangs + V-notch.
+Cute chibi sleek bob. Source screened from Mii Maker `hair.000`–`hair.040`; **chose `hair.006`** for soft arched bang lobes + V toward viewer-right.
 
 ## Facing
 - Blender **Z-up**, face **−Y** (camera from −Y)
 
 ## Fit
 - Head sphere r=0.5, outer half-width → 0.53 (~0.02–0.03 clearance)
-- Bang tips pulled toward z≈0.19 (just above eyebrow/eye line)
+- Bang hem sculpted to z≈0.178 (just above brows); V-notch deepened at x≈+0.14
 - Mild side-notch fill so front silhouette isn't ear-C dominated
 - Solidify **0.08** inward → watertight; Subsurf L1 on blend/GLB
 
