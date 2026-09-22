@@ -15,3 +15,5 @@ blender -b -P scripts/generate_all_female.py
 ```
 
 Each style folder has `{name}.obj` / `.mtl` / `.blend` (hair only), `previews/`, and `scripts/`.
+
+- `sleek_bob_03/` — Style 03 Sleek Bob with arched bangs (Hair_03_SleekBob)
