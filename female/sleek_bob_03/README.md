@@ -1,22 +1,12 @@
 # Style 03 — Sleek Bob with Arched Bangs
 
-Cute chibi sleek bob. Source screened from Mii Maker `hair.000`–`hair.040`; **chose `hair.006`** for soft arched bang lobes + V toward viewer-right.
+Procedural meridian shell (Mii stock meshes too horned/faceted). Soft 3-lobe bang curve + subtle +X V.
 
 ## Facing
-- Blender **Z-up**, face **−Y** (camera from −Y)
-
-## Fit
-- Head sphere r=0.5, outer half-width → 0.53 (~0.02–0.03 clearance)
-- Bang hem sculpted to z≈0.178 (just above brows); V-notch deepened at x≈+0.14
-- Mild side-notch fill so front silhouette isn't ear-C dominated
-- Solidify **0.08** inward → watertight; Subsurf L1 on blend/GLB
+Z-up, face −Y. Head r=0.5, outer=0.548, Solidify 0.08, Subsurf applied L2.
 
 ## Material
-Base **#231815**, Roughness **0.7**
+#231815 roughness 0.48 + coat
 
 ## Stats
-verts=1466 faces=1564 tris=200 quads=1364 nonmanifold=0 boundary=0 glb=yes
-
-```bash
-blender -b -P scripts/generate_sleek_bob_03.py
-```
+verts=68882 faces=68880 nm=0 nb=0 glb=yes
