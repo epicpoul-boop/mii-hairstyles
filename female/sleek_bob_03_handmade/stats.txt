@@ -1,0 +1,6 @@
+triangles: 2136
+pieces: 5 (shell + 4 bangs)
+closed: yes
+head_radius: 0.5
+color: #231815
+source: hand-modeled in Blender, Tripo-guided

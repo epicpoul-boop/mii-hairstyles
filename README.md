@@ -28,5 +28,6 @@ Each male folder has `{name}.obj` / `.mtl` / `.blend` and `previews/` (hair alon
 | `female/pixie/` | Short polished pixie — cropped nape, angular bangs | [pixie.obj](https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/female/pixie/pixie.obj) |
 | `female/twin_buns/` | Twin disc buns + short shell base | [twin_buns.obj](https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/female/twin_buns/twin_buns.obj) |
 | `female/sleek_bob_03/` | Sleek bob with soft arched bangs (chibi r=0.5) | [Hair_03_SleekBob.obj](https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/female/sleek_bob_03/Hair_03_SleekBob.obj) |
+| `female/sleek_bob_03_handmade/` | Sleek bob, hand-modeled low-poly version with 4 bang pieces (chibi r=0.5, also GLB) | [Hair_03_SleekBob_Handmade.obj](https://raw.githubusercontent.com/epicpoul-boop/mii-hairstyles/main/female/sleek_bob_03_handmade/Hair_03_SleekBob_Handmade.obj) |
 
 Each female folder has `{name}.obj` / `.mtl` / `.blend` and `previews/` (hair alone).
